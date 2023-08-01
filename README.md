@@ -1,4 +1,3 @@
-# parasKumar
 ### Hi there 👋
 
 
