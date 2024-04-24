@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I am Paras Kumar, A frontend developer with 4+ years of experience working from Bangalore, India. I hold a Bachelor of Engineering degree in Information Technology. I enjoy learning by building projects and have experience working with JavaScript apps, including React.js, React Native,  Next.js and Typescript
+- I am Paras Kumar, A frontend developer with 5+ years of experience working from Bangalore, India. I hold a Bachelor of Engineering degree in Information Technology. I enjoy learning by building projects and have experience working with JavaScript apps, including React.js, React Native,  Next.js and Typescript
 
  - Skilled in creating dynamic, interactive boxes for seamless user experiences across platforms leveraging modern technologies and frameworks to develop impactful solutions that drive business growth. When I am not writing logic, I travel and explore new places.
 
