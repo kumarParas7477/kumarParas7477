@@ -29,5 +29,5 @@
 ###  Social
 <!--
 -->
-[<img src="https://img.shields.io/badge/Paras Kumar-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paras-kumar-686b85143//)
+[<img src="https://img.shields.io/badge/Paras Kumar-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/soniparas/)
 [![Gmail Badge](https://img.shields.io/badge/-kumarparas249@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarparas249@gmail.com)](mailto:kumarparas249@gmail.com)
